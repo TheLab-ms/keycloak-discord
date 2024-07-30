@@ -1,3 +1,5 @@
+> Forked to integrate a fix PR that hasn't been merged upstream
+
 # keycloak-discord
 
 Keycloak Social Login extension for Discord.
